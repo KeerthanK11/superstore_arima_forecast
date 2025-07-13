@@ -1,0 +1,865 @@
+Order Date,Country,Category,Sales
+1/1/2015,India,Furniture,1276.84
+1/1/2015,India,Office Supplies,1045.09
+1/1/2015,China,Furniture,1484.38
+1/1/2015,China,Office Supplies,1328.15
+1/1/2015,Australia,Furniture,1140.29
+1/1/2015,Australia,Office Supplies,990.29
+1/1/2015,USA,Furniture,1730.96
+1/1/2015,USA,Office Supplies,1440.37
+2/1/2015,India,Furniture,1267.13
+2/1/2015,India,Office Supplies,1117.73
+2/1/2015,China,Furniture,1467.43
+2/1/2015,China,Office Supplies,1267.32
+2/1/2015,Australia,Furniture,1202.7
+2/1/2015,Australia,Office Supplies,944.94
+2/1/2015,USA,Furniture,1604.36
+2/1/2015,USA,Office Supplies,1412.49
+3/1/2015,India,Furniture,1255.36
+3/1/2015,India,Office Supplies,1121.71
+3/1/2015,China,Furniture,1460.6
+3/1/2015,China,Office Supplies,1235.38
+3/1/2015,Australia,Furniture,1279.28
+3/1/2015,Australia,Office Supplies,1044.71
+3/1/2015,USA,Furniture,1709.38
+3/1/2015,USA,Office Supplies,1384.76
+4/1/2015,India,Furniture,1267.38
+4/1/2015,India,Office Supplies,1100.15
+4/1/2015,China,Furniture,1437.05
+4/1/2015,China,Office Supplies,1313.39
+4/1/2015,Australia,Furniture,1164.57
+4/1/2015,Australia,Office Supplies,1030.02
+4/1/2015,USA,Furniture,1664.52
+4/1/2015,USA,Office Supplies,1537.22
+5/1/2015,India,Furniture,1259.33
+5/1/2015,India,Office Supplies,1007.11
+5/1/2015,China,Furniture,1501.13
+5/1/2015,China,Office Supplies,1198.96
+5/1/2015,Australia,Furniture,1170.44
+5/1/2015,Australia,Office Supplies,912.02
+5/1/2015,USA,Furniture,1593.59
+5/1/2015,USA,Office Supplies,1419.84
+6/1/2015,India,Furniture,1248.92
+6/1/2015,India,Office Supplies,1020.57
+6/1/2015,China,Furniture,1406.22
+6/1/2015,China,Office Supplies,1196.94
+6/1/2015,Australia,Furniture,1038.07
+6/1/2015,Australia,Office Supplies,926.01
+6/1/2015,USA,Furniture,1588.97
+6/1/2015,USA,Office Supplies,1414.86
+7/1/2015,India,Furniture,1181.18
+7/1/2015,India,Office Supplies,875.85
+7/1/2015,China,Furniture,1380.2
+7/1/2015,China,Office Supplies,1144.75
+7/1/2015,Australia,Furniture,1030.15
+7/1/2015,Australia,Office Supplies,944.58
+7/1/2015,USA,Furniture,1615.55
+7/1/2015,USA,Office Supplies,1360.56
+8/1/2015,India,Furniture,1087.44
+8/1/2015,India,Office Supplies,913.94
+8/1/2015,China,Furniture,1345.96
+8/1/2015,China,Office Supplies,1178.17
+8/1/2015,Australia,Furniture,1005.44
+8/1/2015,Australia,Office Supplies,870.11
+8/1/2015,USA,Furniture,1474.08
+8/1/2015,USA,Office Supplies,1219.59
+9/1/2015,India,Furniture,1158.63
+9/1/2015,India,Office Supplies,985.81
+9/1/2015,China,Furniture,1314.4
+9/1/2015,China,Office Supplies,1168.18
+9/1/2015,Australia,Furniture,1036.08
+9/1/2015,Australia,Office Supplies,835.74
+9/1/2015,USA,Furniture,1536.07
+9/1/2015,USA,Office Supplies,1344.9
+10/1/2015,India,Furniture,1131.61
+10/1/2015,India,Office Supplies,1011.63
+10/1/2015,China,Furniture,1202.41
+10/1/2015,China,Office Supplies,1174.49
+10/1/2015,Australia,Furniture,1037.75
+10/1/2015,Australia,Office Supplies,868.45
+10/1/2015,USA,Furniture,1537.99
+10/1/2015,USA,Office Supplies,1184.02
+11/1/2015,India,Furniture,1161.02
+11/1/2015,India,Office Supplies,989.86
+11/1/2015,China,Furniture,1445.89
+11/1/2015,China,Office Supplies,1146.09
+11/1/2015,Australia,Furniture,1031.58
+11/1/2015,Australia,Office Supplies,896.91
+11/1/2015,USA,Furniture,1617.77
+11/1/2015,USA,Office Supplies,1338.44
+12/1/2015,India,Furniture,1197.51
+12/1/2015,India,Office Supplies,1049.66
+12/1/2015,China,Furniture,1428.85
+12/1/2015,China,Office Supplies,1272.43
+12/1/2015,Australia,Furniture,1088.9
+12/1/2015,Australia,Office Supplies,957.62
+12/1/2015,USA,Furniture,1604.39
+12/1/2015,USA,Office Supplies,1300.82
+1/1/2016,India,Furniture,1290.81
+1/1/2016,India,Office Supplies,1089.05
+1/1/2016,China,Furniture,1476.26
+1/1/2016,China,Office Supplies,1264.27
+1/1/2016,Australia,Furniture,1105.23
+1/1/2016,Australia,Office Supplies,1004.97
+1/1/2016,USA,Furniture,1658.86
+1/1/2016,USA,Office Supplies,1385.89
+2/1/2016,India,Furniture,1306.54
+2/1/2016,India,Office Supplies,1134.81
+2/1/2016,China,Furniture,1608.91
+2/1/2016,China,Office Supplies,1323.33
+2/1/2016,Australia,Furniture,1227.48
+2/1/2016,Australia,Office Supplies,1060.88
+2/1/2016,USA,Furniture,1618.66
+2/1/2016,USA,Office Supplies,1463.28
+3/1/2016,India,Furniture,1333.01
+3/1/2016,India,Office Supplies,1253.16
+3/1/2016,China,Furniture,1520.38
+3/1/2016,China,Office Supplies,1345.08
+3/1/2016,Australia,Furniture,1228.26
+3/1/2016,Australia,Office Supplies,1021.57
+3/1/2016,USA,Furniture,1787.14
+3/1/2016,USA,Office Supplies,1517.6
+4/1/2016,India,Furniture,1358.15
+4/1/2016,India,Office Supplies,1073.13
+4/1/2016,China,Furniture,1588.74
+4/1/2016,China,Office Supplies,1248.51
+4/1/2016,Australia,Furniture,1247.95
+4/1/2016,Australia,Office Supplies,1178.13
+4/1/2016,USA,Furniture,1669.08
+4/1/2016,USA,Office Supplies,1440.29
+5/1/2016,India,Furniture,1288.98
+5/1/2016,India,Office Supplies,1058.83
+5/1/2016,China,Furniture,1406.47
+5/1/2016,China,Office Supplies,1287.43
+5/1/2016,Australia,Furniture,1130.88
+5/1/2016,Australia,Office Supplies,1057.68
+5/1/2016,USA,Furniture,1638.03
+5/1/2016,USA,Office Supplies,1511.5
+6/1/2016,India,Furniture,1196.84
+6/1/2016,India,Office Supplies,1019.9
+6/1/2016,China,Furniture,1476.68
+6/1/2016,China,Office Supplies,1174.46
+6/1/2016,Australia,Furniture,1147.37
+6/1/2016,Australia,Office Supplies,1051.36
+6/1/2016,USA,Furniture,1555.63
+6/1/2016,USA,Office Supplies,1395.23
+7/1/2016,India,Furniture,1200.99
+7/1/2016,India,Office Supplies,1027.09
+7/1/2016,China,Furniture,1326.15
+7/1/2016,China,Office Supplies,1121.98
+7/1/2016,Australia,Furniture,1114.1
+7/1/2016,Australia,Office Supplies,952.85
+7/1/2016,USA,Furniture,1600.52
+7/1/2016,USA,Office Supplies,1355.32
+8/1/2016,India,Furniture,1119.4
+8/1/2016,India,Office Supplies,965.01
+8/1/2016,China,Furniture,1368.05
+8/1/2016,China,Office Supplies,1117.68
+8/1/2016,Australia,Furniture,1146.69
+8/1/2016,Australia,Office Supplies,927.09
+8/1/2016,USA,Furniture,1493.83
+8/1/2016,USA,Office Supplies,1336.23
+9/1/2016,India,Furniture,1093.27
+9/1/2016,India,Office Supplies,981.35
+9/1/2016,China,Furniture,1399.93
+9/1/2016,China,Office Supplies,1100.97
+9/1/2016,Australia,Furniture,1090.17
+9/1/2016,Australia,Office Supplies,912.64
+9/1/2016,USA,Furniture,1583.1
+9/1/2016,USA,Office Supplies,1386.84
+10/1/2016,India,Furniture,1145.13
+10/1/2016,India,Office Supplies,919.71
+10/1/2016,China,Furniture,1312.92
+10/1/2016,China,Office Supplies,1116.61
+10/1/2016,Australia,Furniture,1053.54
+10/1/2016,Australia,Office Supplies,924.46
+10/1/2016,USA,Furniture,1571.23
+10/1/2016,USA,Office Supplies,1348.76
+11/1/2016,India,Furniture,1196.65
+11/1/2016,India,Office Supplies,1068.68
+11/1/2016,China,Furniture,1382.77
+11/1/2016,China,Office Supplies,1332.01
+11/1/2016,Australia,Furniture,1127.28
+11/1/2016,Australia,Office Supplies,903.14
+11/1/2016,USA,Furniture,1542.46
+11/1/2016,USA,Office Supplies,1370.12
+12/1/2016,India,Furniture,1236.83
+12/1/2016,India,Office Supplies,1083.7
+12/1/2016,China,Furniture,1471.66
+12/1/2016,China,Office Supplies,1244.36
+12/1/2016,Australia,Furniture,1105.66
+12/1/2016,Australia,Office Supplies,922.26
+12/1/2016,USA,Furniture,1625.67
+12/1/2016,USA,Office Supplies,1440.82
+1/1/2017,India,Furniture,1310.7
+1/1/2017,India,Office Supplies,1037.71
+1/1/2017,China,Furniture,1508.66
+1/1/2017,China,Office Supplies,1319.27
+1/1/2017,Australia,Furniture,1155.81
+1/1/2017,Australia,Office Supplies,1057.69
+1/1/2017,USA,Furniture,1702.91
+1/1/2017,USA,Office Supplies,1392.85
+2/1/2017,India,Furniture,1356.49
+2/1/2017,India,Office Supplies,1166.64
+2/1/2017,China,Furniture,1592.76
+2/1/2017,China,Office Supplies,1391.29
+2/1/2017,Australia,Furniture,1169.72
+2/1/2017,Australia,Office Supplies,1041.71
+2/1/2017,USA,Furniture,1764.35
+2/1/2017,USA,Office Supplies,1514.29
+3/1/2017,India,Furniture,1379.75
+3/1/2017,India,Office Supplies,1346.64
+3/1/2017,China,Furniture,1582.54
+3/1/2017,China,Office Supplies,1410.78
+3/1/2017,Australia,Furniture,1301.7
+3/1/2017,Australia,Office Supplies,1136.57
+3/1/2017,USA,Furniture,1738.24
+3/1/2017,USA,Office Supplies,1541.95
+4/1/2017,India,Furniture,1303.96
+4/1/2017,India,Office Supplies,1130.76
+4/1/2017,China,Furniture,1518.33
+4/1/2017,China,Office Supplies,1346.7
+4/1/2017,Australia,Furniture,1358.34
+4/1/2017,Australia,Office Supplies,999.24
+4/1/2017,USA,Furniture,1776.92
+4/1/2017,USA,Office Supplies,1411.97
+5/1/2017,India,Furniture,1284.4
+5/1/2017,India,Office Supplies,1162.45
+5/1/2017,China,Furniture,1511.21
+5/1/2017,China,Office Supplies,1254.11
+5/1/2017,Australia,Furniture,1172.23
+5/1/2017,Australia,Office Supplies,1091.98
+5/1/2017,USA,Furniture,1671.48
+5/1/2017,USA,Office Supplies,1468.82
+6/1/2017,India,Furniture,1262.28
+6/1/2017,India,Office Supplies,1027.42
+6/1/2017,China,Furniture,1567.2
+6/1/2017,China,Office Supplies,1291.7
+6/1/2017,Australia,Furniture,1058.74
+6/1/2017,Australia,Office Supplies,1019.32
+6/1/2017,USA,Furniture,1626.91
+6/1/2017,USA,Office Supplies,1452.62
+7/1/2017,India,Furniture,1172.37
+7/1/2017,India,Office Supplies,1006.26
+7/1/2017,China,Furniture,1437.25
+7/1/2017,China,Office Supplies,1255.29
+7/1/2017,Australia,Furniture,1051.99
+7/1/2017,Australia,Office Supplies,945.27
+7/1/2017,USA,Furniture,1588.25
+7/1/2017,USA,Office Supplies,1329.33
+8/1/2017,India,Furniture,1265.67
+8/1/2017,India,Office Supplies,997.65
+8/1/2017,China,Furniture,1314.35
+8/1/2017,China,Office Supplies,1223.29
+8/1/2017,Australia,Furniture,1183.51
+8/1/2017,Australia,Office Supplies,979.02
+8/1/2017,USA,Furniture,1501.43
+8/1/2017,USA,Office Supplies,1303.19
+9/1/2017,India,Furniture,1229.35
+9/1/2017,India,Office Supplies,930.62
+9/1/2017,China,Furniture,1388.19
+9/1/2017,China,Office Supplies,1204.73
+9/1/2017,Australia,Furniture,1019.65
+9/1/2017,Australia,Office Supplies,913.02
+9/1/2017,USA,Furniture,1403.94
+9/1/2017,USA,Office Supplies,1264.78
+10/1/2017,India,Furniture,1168.77
+10/1/2017,India,Office Supplies,919.01
+10/1/2017,China,Furniture,1463.02
+10/1/2017,China,Office Supplies,1109.89
+10/1/2017,Australia,Furniture,1059.4
+10/1/2017,Australia,Office Supplies,937.93
+10/1/2017,USA,Furniture,1653.46
+10/1/2017,USA,Office Supplies,1259.6
+11/1/2017,India,Furniture,1278.16
+11/1/2017,India,Office Supplies,1020.51
+11/1/2017,China,Furniture,1370.92
+11/1/2017,China,Office Supplies,1243.11
+11/1/2017,Australia,Furniture,1129.95
+11/1/2017,Australia,Office Supplies,939.99
+11/1/2017,USA,Furniture,1623.49
+11/1/2017,USA,Office Supplies,1350.73
+12/1/2017,India,Furniture,1277.68
+12/1/2017,India,Office Supplies,1105.11
+12/1/2017,China,Furniture,1551.3
+12/1/2017,China,Office Supplies,1210.11
+12/1/2017,Australia,Furniture,1278.65
+12/1/2017,Australia,Office Supplies,924.4
+12/1/2017,USA,Furniture,1664.41
+12/1/2017,USA,Office Supplies,1451.42
+1/1/2018,India,Furniture,1338.05
+1/1/2018,India,Office Supplies,1092.87
+1/1/2018,China,Furniture,1513.59
+1/1/2018,China,Office Supplies,1299.35
+1/1/2018,Australia,Furniture,1194.53
+1/1/2018,Australia,Office Supplies,1116.48
+1/1/2018,USA,Furniture,1741.85
+1/1/2018,USA,Office Supplies,1439.35
+2/1/2018,India,Furniture,1407.58
+2/1/2018,India,Office Supplies,1177.97
+2/1/2018,China,Furniture,1603.25
+2/1/2018,China,Office Supplies,1394.08
+2/1/2018,Australia,Furniture,1221.15
+2/1/2018,Australia,Office Supplies,1084.59
+2/1/2018,USA,Furniture,1799.97
+2/1/2018,USA,Office Supplies,1543.12
+3/1/2018,India,Furniture,1376.95
+3/1/2018,India,Office Supplies,1183.87
+3/1/2018,China,Furniture,1641.88
+3/1/2018,China,Office Supplies,1348.42
+3/1/2018,Australia,Furniture,1305.35
+3/1/2018,Australia,Office Supplies,1117.89
+3/1/2018,USA,Furniture,1767.12
+3/1/2018,USA,Office Supplies,1582.94
+4/1/2018,India,Furniture,1407.87
+4/1/2018,India,Office Supplies,1207.28
+4/1/2018,China,Furniture,1631.88
+4/1/2018,China,Office Supplies,1367.65
+4/1/2018,Australia,Furniture,1300.7
+4/1/2018,Australia,Office Supplies,1101.09
+4/1/2018,USA,Furniture,1782.81
+4/1/2018,USA,Office Supplies,1510.1
+5/1/2018,India,Furniture,1336.85
+5/1/2018,India,Office Supplies,1161.76
+5/1/2018,China,Furniture,1491.09
+5/1/2018,China,Office Supplies,1436.62
+5/1/2018,Australia,Furniture,1181.7
+5/1/2018,Australia,Office Supplies,1021.29
+5/1/2018,USA,Furniture,1789.91
+5/1/2018,USA,Office Supplies,1521.58
+6/1/2018,India,Furniture,1315.21
+6/1/2018,India,Office Supplies,1115.42
+6/1/2018,China,Furniture,1483.39
+6/1/2018,China,Office Supplies,1239.14
+6/1/2018,Australia,Furniture,1187.79
+6/1/2018,Australia,Office Supplies,1000.14
+6/1/2018,USA,Furniture,1732.76
+6/1/2018,USA,Office Supplies,1426.65
+7/1/2018,India,Furniture,1194.73
+7/1/2018,India,Office Supplies,1019.93
+7/1/2018,China,Furniture,1456.65
+7/1/2018,China,Office Supplies,1207.81
+7/1/2018,Australia,Furniture,1094.89
+7/1/2018,Australia,Office Supplies,998.18
+7/1/2018,USA,Furniture,1648.25
+7/1/2018,USA,Office Supplies,1360.65
+8/1/2018,India,Furniture,1177.85
+8/1/2018,India,Office Supplies,1013
+8/1/2018,China,Furniture,1328.99
+8/1/2018,China,Office Supplies,1131.02
+8/1/2018,Australia,Furniture,1065.48
+8/1/2018,Australia,Office Supplies,940.73
+8/1/2018,USA,Furniture,1616.94
+8/1/2018,USA,Office Supplies,1425.17
+9/1/2018,India,Furniture,1232.88
+9/1/2018,India,Office Supplies,982
+9/1/2018,China,Furniture,1389.05
+9/1/2018,China,Office Supplies,1139.87
+9/1/2018,Australia,Furniture,1089.07
+9/1/2018,Australia,Office Supplies,925.57
+9/1/2018,USA,Furniture,1606.14
+9/1/2018,USA,Office Supplies,1298.64
+10/1/2018,India,Furniture,1231.36
+10/1/2018,India,Office Supplies,1082.03
+10/1/2018,China,Furniture,1399.96
+10/1/2018,China,Office Supplies,1225.48
+10/1/2018,Australia,Furniture,1139.9
+10/1/2018,Australia,Office Supplies,935.34
+10/1/2018,USA,Furniture,1616.6
+10/1/2018,USA,Office Supplies,1356.03
+11/1/2018,India,Furniture,1248.88
+11/1/2018,India,Office Supplies,1005.35
+11/1/2018,China,Furniture,1445.23
+11/1/2018,China,Office Supplies,1268.9
+11/1/2018,Australia,Furniture,1216.56
+11/1/2018,Australia,Office Supplies,1041.96
+11/1/2018,USA,Furniture,1751.66
+11/1/2018,USA,Office Supplies,1355.63
+12/1/2018,India,Furniture,1339.62
+12/1/2018,India,Office Supplies,1105.17
+12/1/2018,China,Furniture,1605.49
+12/1/2018,China,Office Supplies,1255.59
+12/1/2018,Australia,Furniture,1154.01
+12/1/2018,Australia,Office Supplies,1016.03
+12/1/2018,USA,Furniture,1589.81
+12/1/2018,USA,Office Supplies,1419.71
+1/1/2019,India,Furniture,1310.04
+1/1/2019,India,Office Supplies,1155.52
+1/1/2019,China,Furniture,1565.09
+1/1/2019,China,Office Supplies,1441.81
+1/1/2019,Australia,Furniture,1295.52
+1/1/2019,Australia,Office Supplies,1069.15
+1/1/2019,USA,Furniture,1703.08
+1/1/2019,USA,Office Supplies,1522.6
+2/1/2019,India,Furniture,1320.59
+2/1/2019,India,Office Supplies,1278.18
+2/1/2019,China,Furniture,1645.57
+2/1/2019,China,Office Supplies,1363.14
+2/1/2019,Australia,Furniture,1200.95
+2/1/2019,Australia,Office Supplies,1204.3
+2/1/2019,USA,Furniture,1780.88
+2/1/2019,USA,Office Supplies,1598.49
+3/1/2019,India,Furniture,1322.28
+3/1/2019,India,Office Supplies,1172.03
+3/1/2019,China,Furniture,1602.26
+3/1/2019,China,Office Supplies,1404.35
+3/1/2019,Australia,Furniture,1279.5
+3/1/2019,Australia,Office Supplies,1183.14
+3/1/2019,USA,Furniture,1748.62
+3/1/2019,USA,Office Supplies,1544.88
+4/1/2019,India,Furniture,1396.62
+4/1/2019,India,Office Supplies,1216.32
+4/1/2019,China,Furniture,1626.18
+4/1/2019,China,Office Supplies,1334.37
+4/1/2019,Australia,Furniture,1213.9
+4/1/2019,Australia,Office Supplies,1204.49
+4/1/2019,USA,Furniture,1807.22
+4/1/2019,USA,Office Supplies,1503.18
+5/1/2019,India,Furniture,1433.56
+5/1/2019,India,Office Supplies,1161.78
+5/1/2019,China,Furniture,1614.96
+5/1/2019,China,Office Supplies,1359.38
+5/1/2019,Australia,Furniture,1359.04
+5/1/2019,Australia,Office Supplies,1193.77
+5/1/2019,USA,Furniture,1743.55
+5/1/2019,USA,Office Supplies,1554.58
+6/1/2019,India,Furniture,1340.27
+6/1/2019,India,Office Supplies,1176.43
+6/1/2019,China,Furniture,1459.75
+6/1/2019,China,Office Supplies,1342.3
+6/1/2019,Australia,Furniture,1260.92
+6/1/2019,Australia,Office Supplies,970.06
+6/1/2019,USA,Furniture,1648.84
+6/1/2019,USA,Office Supplies,1356.04
+7/1/2019,India,Furniture,1246.53
+7/1/2019,India,Office Supplies,1095.88
+7/1/2019,China,Furniture,1535.12
+7/1/2019,China,Office Supplies,1263.7
+7/1/2019,Australia,Furniture,1241.43
+7/1/2019,Australia,Office Supplies,940.99
+7/1/2019,USA,Furniture,1574.83
+7/1/2019,USA,Office Supplies,1407.22
+8/1/2019,India,Furniture,1244.6
+8/1/2019,India,Office Supplies,1023.76
+8/1/2019,China,Furniture,1322.03
+8/1/2019,China,Office Supplies,1220.94
+8/1/2019,Australia,Furniture,1060.17
+8/1/2019,Australia,Office Supplies,1008.88
+8/1/2019,USA,Furniture,1643.73
+8/1/2019,USA,Office Supplies,1328.4
+9/1/2019,India,Furniture,1188.31
+9/1/2019,India,Office Supplies,961.04
+9/1/2019,China,Furniture,1410.87
+9/1/2019,China,Office Supplies,1261.76
+9/1/2019,Australia,Furniture,1064.71
+9/1/2019,Australia,Office Supplies,989.2
+9/1/2019,USA,Furniture,1587.49
+9/1/2019,USA,Office Supplies,1324.36
+10/1/2019,India,Furniture,1224.05
+10/1/2019,India,Office Supplies,977.64
+10/1/2019,China,Furniture,1401.71
+10/1/2019,China,Office Supplies,1169.5
+10/1/2019,Australia,Furniture,1227.63
+10/1/2019,Australia,Office Supplies,981.16
+10/1/2019,USA,Furniture,1594.41
+10/1/2019,USA,Office Supplies,1390.1
+11/1/2019,India,Furniture,1262.38
+11/1/2019,India,Office Supplies,1056.95
+11/1/2019,China,Furniture,1498.71
+11/1/2019,China,Office Supplies,1305.88
+11/1/2019,Australia,Furniture,1141.47
+11/1/2019,Australia,Office Supplies,989.21
+11/1/2019,USA,Furniture,1654.25
+11/1/2019,USA,Office Supplies,1302.9
+12/1/2019,India,Furniture,1244.24
+12/1/2019,India,Office Supplies,1188.34
+12/1/2019,China,Furniture,1602.25
+12/1/2019,China,Office Supplies,1307.55
+12/1/2019,Australia,Furniture,1248.83
+12/1/2019,Australia,Office Supplies,1085.56
+12/1/2019,USA,Furniture,1873.94
+12/1/2019,USA,Office Supplies,1525.98
+1/1/2020,India,Furniture,1365.6
+1/1/2020,India,Office Supplies,1124.22
+1/1/2020,China,Furniture,1491.68
+1/1/2020,China,Office Supplies,1382.17
+1/1/2020,Australia,Furniture,1234.18
+1/1/2020,Australia,Office Supplies,1050.89
+1/1/2020,USA,Furniture,1739.67
+1/1/2020,USA,Office Supplies,1467.92
+2/1/2020,India,Furniture,1494.96
+2/1/2020,India,Office Supplies,1254.68
+2/1/2020,China,Furniture,1610.2
+2/1/2020,China,Office Supplies,1484.6
+2/1/2020,Australia,Furniture,1314.47
+2/1/2020,Australia,Office Supplies,1117.54
+2/1/2020,USA,Furniture,1886.76
+2/1/2020,USA,Office Supplies,1587.55
+3/1/2020,India,Furniture,1374.14
+3/1/2020,India,Office Supplies,1216.48
+3/1/2020,China,Furniture,1582.22
+3/1/2020,China,Office Supplies,1356.86
+3/1/2020,Australia,Furniture,1372.31
+3/1/2020,Australia,Office Supplies,1271.47
+3/1/2020,USA,Furniture,1756.07
+3/1/2020,USA,Office Supplies,1604.15
+4/1/2020,India,Furniture,1382.07
+4/1/2020,India,Office Supplies,1190.25
+4/1/2020,China,Furniture,1584.98
+4/1/2020,China,Office Supplies,1371.4
+4/1/2020,Australia,Furniture,1317.03
+4/1/2020,Australia,Office Supplies,1123.06
+4/1/2020,USA,Furniture,1828.13
+4/1/2020,USA,Office Supplies,1562.09
+5/1/2020,India,Furniture,1368.05
+5/1/2020,India,Office Supplies,1134.62
+5/1/2020,China,Furniture,1551.16
+5/1/2020,China,Office Supplies,1417.77
+5/1/2020,Australia,Furniture,1305.05
+5/1/2020,Australia,Office Supplies,1081.12
+5/1/2020,USA,Furniture,1784.97
+5/1/2020,USA,Office Supplies,1567.57
+6/1/2020,India,Furniture,1248.53
+6/1/2020,India,Office Supplies,1159.17
+6/1/2020,China,Furniture,1498.87
+6/1/2020,China,Office Supplies,1360.53
+6/1/2020,Australia,Furniture,1193.84
+6/1/2020,Australia,Office Supplies,991.76
+6/1/2020,USA,Furniture,1650.62
+6/1/2020,USA,Office Supplies,1484.4
+7/1/2020,India,Furniture,1296.99
+7/1/2020,India,Office Supplies,1038.78
+7/1/2020,China,Furniture,1515.93
+7/1/2020,China,Office Supplies,1200.92
+7/1/2020,Australia,Furniture,1180.7
+7/1/2020,Australia,Office Supplies,973.45
+7/1/2020,USA,Furniture,1651.41
+7/1/2020,USA,Office Supplies,1436.37
+8/1/2020,India,Furniture,1206.38
+8/1/2020,India,Office Supplies,1030.17
+8/1/2020,China,Furniture,1499.71
+8/1/2020,China,Office Supplies,1220.55
+8/1/2020,Australia,Furniture,1191.18
+8/1/2020,Australia,Office Supplies,942.91
+8/1/2020,USA,Furniture,1675.89
+8/1/2020,USA,Office Supplies,1471.48
+9/1/2020,India,Furniture,1114.42
+9/1/2020,India,Office Supplies,998.16
+9/1/2020,China,Furniture,1466.85
+9/1/2020,China,Office Supplies,1227.85
+9/1/2020,Australia,Furniture,1156.56
+9/1/2020,Australia,Office Supplies,957.8
+9/1/2020,USA,Furniture,1642.33
+9/1/2020,USA,Office Supplies,1380.22
+10/1/2020,India,Furniture,1311.79
+10/1/2020,India,Office Supplies,1066.12
+10/1/2020,China,Furniture,1470.28
+10/1/2020,China,Office Supplies,1232.8
+10/1/2020,Australia,Furniture,1129.02
+10/1/2020,Australia,Office Supplies,981.77
+10/1/2020,USA,Furniture,1673.12
+10/1/2020,USA,Office Supplies,1382.35
+11/1/2020,India,Furniture,1306.49
+11/1/2020,India,Office Supplies,1195.77
+11/1/2020,China,Furniture,1535.56
+11/1/2020,China,Office Supplies,1275.7
+11/1/2020,Australia,Furniture,1252.06
+11/1/2020,Australia,Office Supplies,1021.6
+11/1/2020,USA,Furniture,1590.09
+11/1/2020,USA,Office Supplies,1391.6
+12/1/2020,India,Furniture,1250.46
+12/1/2020,India,Office Supplies,1126.42
+12/1/2020,China,Furniture,1544.92
+12/1/2020,China,Office Supplies,1427.82
+12/1/2020,Australia,Furniture,1260.35
+12/1/2020,Australia,Office Supplies,1083.04
+12/1/2020,USA,Furniture,1785.47
+12/1/2020,USA,Office Supplies,1383.44
+1/1/2021,India,Furniture,1407.78
+1/1/2021,India,Office Supplies,1234.54
+1/1/2021,China,Furniture,1522.07
+1/1/2021,China,Office Supplies,1453.19
+1/1/2021,Australia,Furniture,1312.92
+1/1/2021,Australia,Office Supplies,1125.24
+1/1/2021,USA,Furniture,1827.64
+1/1/2021,USA,Office Supplies,1659.53
+2/1/2021,India,Furniture,1443.7
+2/1/2021,India,Office Supplies,1247.01
+2/1/2021,China,Furniture,1611.63
+2/1/2021,China,Office Supplies,1392.11
+2/1/2021,Australia,Furniture,1376.12
+2/1/2021,Australia,Office Supplies,1141.8
+2/1/2021,USA,Furniture,1838.18
+2/1/2021,USA,Office Supplies,1560.72
+3/1/2021,India,Furniture,1473.95
+3/1/2021,India,Office Supplies,1266.68
+3/1/2021,China,Furniture,1701.88
+3/1/2021,China,Office Supplies,1424.5
+3/1/2021,Australia,Furniture,1336.51
+3/1/2021,Australia,Office Supplies,1151.06
+3/1/2021,USA,Furniture,1827.79
+3/1/2021,USA,Office Supplies,1618.87
+4/1/2021,India,Furniture,1476.45
+4/1/2021,India,Office Supplies,1192.49
+4/1/2021,China,Furniture,1682.08
+4/1/2021,China,Office Supplies,1506.38
+4/1/2021,Australia,Furniture,1359.27
+4/1/2021,Australia,Office Supplies,1282.44
+4/1/2021,USA,Furniture,1799.91
+4/1/2021,USA,Office Supplies,1526.37
+5/1/2021,India,Furniture,1315.06
+5/1/2021,India,Office Supplies,1278.8
+5/1/2021,China,Furniture,1636.72
+5/1/2021,China,Office Supplies,1401.22
+5/1/2021,Australia,Furniture,1318
+5/1/2021,Australia,Office Supplies,1097.73
+5/1/2021,USA,Furniture,1926.29
+5/1/2021,USA,Office Supplies,1560.46
+6/1/2021,India,Furniture,1361.47
+6/1/2021,India,Office Supplies,1192.29
+6/1/2021,China,Furniture,1580.05
+6/1/2021,China,Office Supplies,1367.19
+6/1/2021,Australia,Furniture,1216.48
+6/1/2021,Australia,Office Supplies,1129.57
+6/1/2021,USA,Furniture,1850.1
+6/1/2021,USA,Office Supplies,1573.27
+7/1/2021,India,Furniture,1387.66
+7/1/2021,India,Office Supplies,1082.44
+7/1/2021,China,Furniture,1458.52
+7/1/2021,China,Office Supplies,1301.71
+7/1/2021,Australia,Furniture,1210.79
+7/1/2021,Australia,Office Supplies,1112.71
+7/1/2021,USA,Furniture,1623.38
+7/1/2021,USA,Office Supplies,1534.48
+8/1/2021,India,Furniture,1265.5
+8/1/2021,India,Office Supplies,1052.05
+8/1/2021,China,Furniture,1422.79
+8/1/2021,China,Office Supplies,1190.65
+8/1/2021,Australia,Furniture,1214.56
+8/1/2021,Australia,Office Supplies,1027.06
+8/1/2021,USA,Furniture,1608.9
+8/1/2021,USA,Office Supplies,1358.64
+9/1/2021,India,Furniture,1245.21
+9/1/2021,India,Office Supplies,1145.45
+9/1/2021,China,Furniture,1449.02
+9/1/2021,China,Office Supplies,1186.84
+9/1/2021,Australia,Furniture,1149.71
+9/1/2021,Australia,Office Supplies,998.36
+9/1/2021,USA,Furniture,1527.16
+9/1/2021,USA,Office Supplies,1409.29
+10/1/2021,India,Furniture,1265.85
+10/1/2021,India,Office Supplies,1112.21
+10/1/2021,China,Furniture,1569.85
+10/1/2021,China,Office Supplies,1333.73
+10/1/2021,Australia,Furniture,1163.95
+10/1/2021,Australia,Office Supplies,972.07
+10/1/2021,USA,Furniture,1806.07
+10/1/2021,USA,Office Supplies,1430.36
+11/1/2021,India,Furniture,1316.7
+11/1/2021,India,Office Supplies,1114.79
+11/1/2021,China,Furniture,1525.9
+11/1/2021,China,Office Supplies,1308.78
+11/1/2021,Australia,Furniture,1187.32
+11/1/2021,Australia,Office Supplies,1038.66
+11/1/2021,USA,Furniture,1714.36
+11/1/2021,USA,Office Supplies,1438.83
+12/1/2021,India,Furniture,1332.36
+12/1/2021,India,Office Supplies,1173.32
+12/1/2021,China,Furniture,1555.25
+12/1/2021,China,Office Supplies,1443.2
+12/1/2021,Australia,Furniture,1135.45
+12/1/2021,Australia,Office Supplies,1172.58
+12/1/2021,USA,Furniture,1830.3
+12/1/2021,USA,Office Supplies,1414.33
+1/1/2022,India,Furniture,1402.87
+1/1/2022,India,Office Supplies,1201.43
+1/1/2022,China,Furniture,1549.62
+1/1/2022,China,Office Supplies,1381.11
+1/1/2022,Australia,Furniture,1264.47
+1/1/2022,Australia,Office Supplies,1257.61
+1/1/2022,USA,Furniture,1866.78
+1/1/2022,USA,Office Supplies,1633.58
+2/1/2022,India,Furniture,1494.69
+2/1/2022,India,Office Supplies,1202.15
+2/1/2022,China,Furniture,1632.38
+2/1/2022,China,Office Supplies,1483.07
+2/1/2022,Australia,Furniture,1297.5
+2/1/2022,Australia,Office Supplies,1244.25
+2/1/2022,USA,Furniture,1846.59
+2/1/2022,USA,Office Supplies,1589.86
+3/1/2022,India,Furniture,1509.55
+3/1/2022,India,Office Supplies,1296.21
+3/1/2022,China,Furniture,1655.95
+3/1/2022,China,Office Supplies,1531.97
+3/1/2022,Australia,Furniture,1319.95
+3/1/2022,Australia,Office Supplies,1254.8
+3/1/2022,USA,Furniture,1903.66
+3/1/2022,USA,Office Supplies,1608.52
+4/1/2022,India,Furniture,1478.91
+4/1/2022,India,Office Supplies,1200.05
+4/1/2022,China,Furniture,1708.8
+4/1/2022,China,Office Supplies,1453.36
+4/1/2022,Australia,Furniture,1336.47
+4/1/2022,Australia,Office Supplies,1265.05
+4/1/2022,USA,Furniture,1827.39
+4/1/2022,USA,Office Supplies,1542.18
+5/1/2022,India,Furniture,1350.17
+5/1/2022,India,Office Supplies,1258.3
+5/1/2022,China,Furniture,1563.98
+5/1/2022,China,Office Supplies,1515.74
+5/1/2022,Australia,Furniture,1223.9
+5/1/2022,Australia,Office Supplies,1262.82
+5/1/2022,USA,Furniture,1838.55
+5/1/2022,USA,Office Supplies,1573.16
+6/1/2022,India,Furniture,1352.75
+6/1/2022,India,Office Supplies,1199.96
+6/1/2022,China,Furniture,1578.12
+6/1/2022,China,Office Supplies,1435.17
+6/1/2022,Australia,Furniture,1285.71
+6/1/2022,Australia,Office Supplies,1137.52
+6/1/2022,USA,Furniture,1761.82
+6/1/2022,USA,Office Supplies,1527.15
+7/1/2022,India,Furniture,1347.39
+7/1/2022,India,Office Supplies,1046.49
+7/1/2022,China,Furniture,1464.59
+7/1/2022,China,Office Supplies,1369.16
+7/1/2022,Australia,Furniture,1240.54
+7/1/2022,Australia,Office Supplies,1072.8
+7/1/2022,USA,Furniture,1732.92
+7/1/2022,USA,Office Supplies,1499.38
+8/1/2022,India,Furniture,1270.41
+8/1/2022,India,Office Supplies,1058.48
+8/1/2022,China,Furniture,1507.19
+8/1/2022,China,Office Supplies,1248.48
+8/1/2022,Australia,Furniture,1217.81
+8/1/2022,Australia,Office Supplies,962.27
+8/1/2022,USA,Furniture,1748.86
+8/1/2022,USA,Office Supplies,1471.03
+9/1/2022,India,Furniture,1298.8
+9/1/2022,India,Office Supplies,1135.13
+9/1/2022,China,Furniture,1569.27
+9/1/2022,China,Office Supplies,1336.72
+9/1/2022,Australia,Furniture,1093.96
+9/1/2022,Australia,Office Supplies,972.02
+9/1/2022,USA,Furniture,1654.76
+9/1/2022,USA,Office Supplies,1437.3
+10/1/2022,India,Furniture,1327.28
+10/1/2022,India,Office Supplies,1065.11
+10/1/2022,China,Furniture,1510.74
+10/1/2022,China,Office Supplies,1263.63
+10/1/2022,Australia,Furniture,1170.82
+10/1/2022,Australia,Office Supplies,981.06
+10/1/2022,USA,Furniture,1655.24
+10/1/2022,USA,Office Supplies,1383.81
+11/1/2022,India,Furniture,1291.21
+11/1/2022,India,Office Supplies,1192.68
+11/1/2022,China,Furniture,1492.53
+11/1/2022,China,Office Supplies,1471.62
+11/1/2022,Australia,Furniture,1264.67
+11/1/2022,Australia,Office Supplies,1099.24
+11/1/2022,USA,Furniture,1697.08
+11/1/2022,USA,Office Supplies,1525.02
+12/1/2022,India,Furniture,1363.22
+12/1/2022,India,Office Supplies,1198.1
+12/1/2022,China,Furniture,1720
+12/1/2022,China,Office Supplies,1387.2
+12/1/2022,Australia,Furniture,1349.46
+12/1/2022,Australia,Office Supplies,1106.84
+12/1/2022,USA,Furniture,1790.25
+12/1/2022,USA,Office Supplies,1630.54
+1/1/2023,India,Furniture,1412.65
+1/1/2023,India,Office Supplies,1334.62
+1/1/2023,China,Furniture,1679.39
+1/1/2023,China,Office Supplies,1415.88
+1/1/2023,Australia,Furniture,1375.62
+1/1/2023,Australia,Office Supplies,1242.63
+1/1/2023,USA,Furniture,1875.09
+1/1/2023,USA,Office Supplies,1515.49
+2/1/2023,India,Furniture,1446.25
+2/1/2023,India,Office Supplies,1270.23
+2/1/2023,China,Furniture,1678.88
+2/1/2023,China,Office Supplies,1513.64
+2/1/2023,Australia,Furniture,1391.49
+2/1/2023,Australia,Office Supplies,1165.84
+2/1/2023,USA,Furniture,1901.61
+2/1/2023,USA,Office Supplies,1663.13
+3/1/2023,India,Furniture,1525.99
+3/1/2023,India,Office Supplies,1352.04
+3/1/2023,China,Furniture,1739.7
+3/1/2023,China,Office Supplies,1520.96
+3/1/2023,Australia,Furniture,1394.49
+3/1/2023,Australia,Office Supplies,1164.95
+3/1/2023,USA,Furniture,1919.48
+3/1/2023,USA,Office Supplies,1658.38
+4/1/2023,India,Furniture,1500.18
+4/1/2023,India,Office Supplies,1222.77
+4/1/2023,China,Furniture,1632.55
+4/1/2023,China,Office Supplies,1539.26
+4/1/2023,Australia,Furniture,1384.62
+4/1/2023,Australia,Office Supplies,1270.68
+4/1/2023,USA,Furniture,1888.02
+4/1/2023,USA,Office Supplies,1638.09
+5/1/2023,India,Furniture,1498.91
+5/1/2023,India,Office Supplies,1226.2
+5/1/2023,China,Furniture,1656.81
+5/1/2023,China,Office Supplies,1428.89
+5/1/2023,Australia,Furniture,1330.28
+5/1/2023,Australia,Office Supplies,1186.54
+5/1/2023,USA,Furniture,1863.11
+5/1/2023,USA,Office Supplies,1578.06
+6/1/2023,India,Furniture,1466.79
+6/1/2023,India,Office Supplies,1159.27
+6/1/2023,China,Furniture,1594.66
+6/1/2023,China,Office Supplies,1382.01
+6/1/2023,Australia,Furniture,1376.35
+6/1/2023,Australia,Office Supplies,1163.83
+6/1/2023,USA,Furniture,1855.59
+6/1/2023,USA,Office Supplies,1479.72
+7/1/2023,India,Furniture,1369.35
+7/1/2023,India,Office Supplies,1200.48
+7/1/2023,China,Furniture,1560.11
+7/1/2023,China,Office Supplies,1409.27
+7/1/2023,Australia,Furniture,1230.14
+7/1/2023,Australia,Office Supplies,1176.47
+7/1/2023,USA,Furniture,1870.94
+7/1/2023,USA,Office Supplies,1487.86
+8/1/2023,India,Furniture,1299.12
+8/1/2023,India,Office Supplies,1194.07
+8/1/2023,China,Furniture,1600.38
+8/1/2023,China,Office Supplies,1295.25
+8/1/2023,Australia,Furniture,1200.39
+8/1/2023,Australia,Office Supplies,1057.31
+8/1/2023,USA,Furniture,1654.17
+8/1/2023,USA,Office Supplies,1425.46
+9/1/2023,India,Furniture,1259.79
+9/1/2023,India,Office Supplies,1071.61
+9/1/2023,China,Furniture,1508.27
+9/1/2023,China,Office Supplies,1321.71
+9/1/2023,Australia,Furniture,1287.53
+9/1/2023,Australia,Office Supplies,1010.08
+9/1/2023,USA,Furniture,1759.22
+9/1/2023,USA,Office Supplies,1449.3
+10/1/2023,India,Furniture,1322.92
+10/1/2023,India,Office Supplies,1159.14
+10/1/2023,China,Furniture,1469.26
+10/1/2023,China,Office Supplies,1344.52
+10/1/2023,Australia,Furniture,1233.72
+10/1/2023,Australia,Office Supplies,1100.02
+10/1/2023,USA,Furniture,1739.86
+10/1/2023,USA,Office Supplies,1598.16
+11/1/2023,India,Furniture,1332.11
+11/1/2023,India,Office Supplies,1137.45
+11/1/2023,China,Furniture,1532.84
+11/1/2023,China,Office Supplies,1336.23
+11/1/2023,Australia,Furniture,1232.13
+11/1/2023,Australia,Office Supplies,1173.45
+11/1/2023,USA,Furniture,1835.03
+11/1/2023,USA,Office Supplies,1485.46
+12/1/2023,India,Furniture,1374.38
+12/1/2023,India,Office Supplies,1239.57
+12/1/2023,China,Furniture,1588.39
+12/1/2023,China,Office Supplies,1447.65
+12/1/2023,Australia,Furniture,1326.15
+12/1/2023,Australia,Office Supplies,1090.21
+12/1/2023,USA,Furniture,1893.38
+12/1/2023,USA,Office Supplies,1655.79
